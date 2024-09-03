@@ -407,6 +407,7 @@ require('lazy').setup({
       end, { desc = '[S]earch [N]eovim files' })
     end,
   },
+  { 'sindrets/diffview.nvim' },
 
   -- LSP Plugins
   {
